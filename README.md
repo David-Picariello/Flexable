@@ -1,1 +1,2 @@
-# Flexable
+# flexable
+Sample layouts using flexbox
